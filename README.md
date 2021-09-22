@@ -1,1 +1,2 @@
-### I reviewed what I learned during coding class. 🧐<br>There's OracleDB basic knowledge stored in this repository.
+### I reviewed what I learned during coding class. 🧐<br>
+<h3> There's <b>OracleDB</b> basic knowledge stored in this repository.
